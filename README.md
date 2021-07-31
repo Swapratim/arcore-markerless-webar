@@ -3,6 +3,7 @@ This is a demo of Google Web ARCore web augmented reality example
 Source: https://developers.google.com/ar/develop/webxr/model-viewer
 
 The purpose of this demo is to provide a quick example for the newcomers in the WebAR world.
+
 You can build a quick prototype by copying the HTML file in your web server.
 
 Few points to remember:
